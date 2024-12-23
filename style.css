@@ -1,0 +1,59 @@
+header {
+    background-color: black;
+    border-bottom: 10px solid white;
+
+
+}
+header h2 {
+    color:lightblue;
+    text-align:center;
+    font-size:50px;
+    font-family:fantasy;
+
+}
+header img {
+    height:250px
+}
+main p {
+    color:lightblue;
+    font-family:Arial Narrow;
+    font-size:25px;
+    text-align:center;
+
+
+
+}
+main img {
+border: 5px solid lightblue;
+border-radius:10px;
+height:300px;
+}
+header a {
+    color:black;
+    font-size:30px;
+    text-decoration:none;
+    border: 5px solid pink ;
+    background-color:pink;
+    border-radius:10px;
+    padding:10px;
+}
+.k {
+    text-align:right;
+    font-size:30px;
+    font-family:Arial Narrow;
+}
+main {
+    border-bottom:10px solid white;
+}
+main h1 {
+    color:lightblue;
+    text-align:center;
+    border:10px solid pink;
+    font-size:50px;
+    border-radius:20px;
+    background-color:black;
+}
+.l {
+    font-size:30px;
+    text-align:center;
+}
