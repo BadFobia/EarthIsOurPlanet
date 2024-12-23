@@ -57,3 +57,14 @@ main h1 {
     font-size:30px;
     text-align:center;
 }
+footer a {
+    text-decoration: none;
+    color:black;
+    border:10px solid pink;
+    background-color:pink;
+    font-family:Fantasy;
+
+}
+p {
+    font-weight:bold;
+}
